@@ -1,2 +1,2 @@
 # IDS
-IDS for Malicious  Access point in wireless Network using Beacon Frames 
+Detection of Malicious Access points in Wireless network using Beacon Frames. 
